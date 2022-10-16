@@ -1,0 +1,322 @@
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\farmApplication.csprojResolveAssemblyReference.cache
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.EggFarm.resources
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.DisplayEggFarm.resources
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.CreateReports.resources
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.ReportCharts.resources
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.FarmsMenu.resources
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.HenFarm.resources
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.DisplayHenFarm.resources
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.DisplayImportedEggs.resources
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.closeTool.resources
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.Cache
+D:\Projects\المزارع 23-5-2022\formApplication\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Projects\المزارع 23-5-2022\formApplication\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Projects\المزارع 23-5-2022\formApplication\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Projects\المزارع 23-5-2022\formApplication\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Projects\المزارع 23-5-2022\formApplication\bin\Debug\formApplication.exe.config
+D:\Projects\المزارع 23-5-2022\formApplication\bin\Debug\formApplication.exe
+D:\Projects\المزارع 23-5-2022\formApplication\bin\Debug\formApplication.pdb
+D:\Projects\المزارع 23-5-2022\formApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Projects\المزارع 23-5-2022\formApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.exe
+D:\Projects\المزارع 23-5-2022\formApplication\obj\Debug\formApplication.pdb
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\formApplication.exe.config
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.exe
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.pdb
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\formApplication.exe
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\formApplication.pdb
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\stdole.dll
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\farmApplication.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.EggFarm.resources
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.DisplayEggFarm.resources
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.CreateReports.resources
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.ReportCharts.resources
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.FarmsMenu.resources
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.HenFarm.resources
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.DisplayHenFarm.resources
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.DisplayImportedEggs.resources
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\formApplication.closeTool.resources
+D:\Visual Studio Projects\المزارع 26-5-2022\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\formApplication.exe.config
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.exe
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.pdb
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\formApplication.exe
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\formApplication.pdb
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\stdole.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\farmApplication.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.EggFarm.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.DisplayEggFarm.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.CreateReports.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.ReportCharts.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.FarmsMenu.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.HenFarm.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.DisplayHenFarm.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.DisplayImportedEggs.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.closeTool.resources
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\obj\Debug\farmApplication.csproj.formApplication.exe.config
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\EnvDTE.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.Build.Framework.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\EnvDTE80.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj80.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.MSXML.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj2.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\EnvDTE.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\EnvDTE80.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj80.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj2.xml
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Visual Studio Projects\Last Update\مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\formApplication.exe.config
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.exe
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.pdb
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\formApplication.exe
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\formApplication.pdb
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\EnvDTE.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\stdole.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\EnvDTE80.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\VSLangProj.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\VSLangProj80.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\VSLangProj2.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\EnvDTE.xml
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\EnvDTE80.xml
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\VSLangProj.xml
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\VSLangProj80.xml
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\VSLangProj2.xml
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\farmApplication.csprojResolveAssemblyReference.cache
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\farmApplication.csproj.formApplication.exe.config
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.EggFarm.resources
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.DisplayEggFarm.resources
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.CreateReports.resources
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.ReportCharts.resources
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.FarmsMenu.resources
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.HenFarm.resources
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.DisplayHenFarm.resources
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.DisplayImportedEggs.resources
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\formApplication.closeTool.resources
+C:\Users\NanoChip\Desktop\Farm Applications 19-8-2022\محطات\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.Cache
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\formApplication.exe.config
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.exe
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.pdb
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\formApplication.exe
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\formApplication.pdb
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ShockwaveFlashObjects.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\EnvDTE.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.Build.Framework.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\stdole.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\EnvDTE80.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj80.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.MSXML.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj2.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\EnvDTE.xml
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\EnvDTE80.xml
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj.xml
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj80.xml
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\VSLangProj2.xml
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\farmApplication.csprojResolveAssemblyReference.cache
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\farmApplication.csproj.formApplication.exe.config
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.EggFarm.resources
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.DisplayEggFarm.resources
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.CreateReports.resources
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.ReportCharts.resources
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.FarmsMenu.resources
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.HenFarm.resources
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.DisplayHenFarm.resources
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.DisplayImportedEggs.resources
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.Properties.Resources.resources
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\formApplication.closeTool.resources
+D:\Version of programs 12-10-2022\برامج مزرعة الدواجن\محطات\formApplication\obj\Debug\farmApplication.csproj.GenerateResource.Cache
